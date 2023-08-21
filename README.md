@@ -1,13 +1,13 @@
 # Sales_Dashboard_PowerBI
 * Created interactive dashboard to track and analyze online sales data
 
-*Used complex parameters to drill down in worksheet and
+* Used complex parameters to drill down in worksheet and
 customization using filters and slicers
 
 * Created connections, join new tables, calculations to manipulate
 data and enable user driven parameters for visualizations
 
-*Used_ different types of customized
+* Used_ different types of customized
 visualization (bar chart, pie chart, donut chart,
 clustered bar chart, scatter chart, line chart,
 area chart, map, slicers, etc)
